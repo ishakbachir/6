@@ -1,0 +1,82 @@
+{
+    "token": "MTI1NjIzNjU2MDcyNzE0NjY5Nw.Go4qhy.2fOFHyj5qMX6L2RMeQPobNVvjBbKRNh-o8x_ks",
+    "prefix": "$",
+    "guildid": "1195863485544927362",
+    "receiverid": "998925073014603797",
+    "probotid": "282859044593598464",
+    "owners": ["998925073014603797","718149374676303962"],
+    "line": "https://media.discordapp.net/attachments/1253890159750025246/1254990961914810448/IMG_20240622_040317.png?ex=667f7569&is=667e23e9&hm=690725686d534492720c5b6ad16953b88f98bc7b39d1d11de5fc5f7fad0badb1&=&format=webp&quality=lossless&width=1440&height=96",
+    "buy_role": {
+        "category_id": "1256241594504318986",
+        "support_role_id": "1256241834699653297",
+        "log_channel_id": "1256242783455543336"
+    },
+    "buy_proom": {
+        "ticket_category_id": "1256243156039630939",
+        "proom_category_id": "1195913321493303327",
+        "support_role_id": "1256241834699653297",
+        "log_channel_id": "1256243593690218548"
+    },
+    "buy_manshor": {
+        "ticket_category_id": "1256243733213483059",
+        "support_role_id": "1256241834699653297",
+        "log_channel_id": "1256243876352491530",
+        "manshor_channel_id": "1256244132507287632"
+    },
+    "buy_ad": {
+        "ticket_category_id": "1256244485462036611",
+        "support_role_id": "1256241834699653297",
+        "log_channel_id": "1256244684913901670",
+        "ad_channel_id": "1195913662821564456"
+    },
+    "role1": {
+        "name": "جندي",
+        "price": "60000",
+        "id": "1256132568613650483"
+    },
+    "role2": {
+        "name": "عقيد",
+        "price": "80000",
+        "id": "1256132629657423933"
+    },
+    "role3": {
+        "name": "عميد",
+        "price": "120000",
+        "id": "1256132682614571059"
+    },
+    "role4": {
+        "name": "لواء",
+        "price": "150000",
+        "id": "1256132741297213500"
+    },
+    {
+    "role5": {
+        "name": "غير متوفر حاليا",
+        "price": "9999999999",
+        "id": "1256132741297213500"
+    },
+    {
+    "role6": {
+        "name": "غير متوفر حاليا",
+        "price": "9999999999",
+        "id": "1256132741297213500"
+    },
+    {
+    "role7": {
+        "name": "غير متوفر حاليا",
+        "price": "9999999999",
+        "id": "1256132741297213500"
+    }
+    "proom": {
+        "here_price": "170000",
+        "everyone_price": "200000"
+    },
+    "manshor": {
+        "here_price": "80000",
+        "everyone_price": "130000"
+    },
+    "ad": {
+        "here_price": "200000",
+        "everyone_price": "400000"
+    }
+}
